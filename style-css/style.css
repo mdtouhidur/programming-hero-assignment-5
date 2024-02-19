@@ -1,0 +1,49 @@
+.bus{
+     border: 2px solid rgb(7, 236, 87);
+}
+/* .banner-img{
+    background-image: url('../image/banner.png');
+} */
+.z-nidex{
+    /* z-index: 10; */
+    /* top: -100px; */
+}
+.card-bord{
+    border-bottom: 5px solid green;
+    border-radius: 10px;
+}
+.vawture-card{
+    border-radius: 20px;
+}
+.sit-boking{
+    border-top: 5px solid #02f702af;
+    border-radius: 40px;
+
+}
+.border{
+    border-radius: 7px;
+    border: solid 2px rgba(16, 186, 16, 0.778);
+}
+.border2{
+    border-radius: 10px;
+    border: solid 3px rgba(0, 128, 0, 0.546);
+}
+.hr{
+    border: dashed 1px rgba(255, 255, 255, 0.443);
+
+}
+.regestetion-box{
+    border-radius: 20px;
+    /* height: 350px; */
+}
+
+
+li{
+    display: flex;
+    justify-content:space-between;
+    color: blue;
+
+}
+/* li > samp{
+    color: red;
+} */
